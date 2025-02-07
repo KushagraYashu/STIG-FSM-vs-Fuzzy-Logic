@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: b13d7c3a122efd74bbb9e04417b82eeb
+  - enabled: 1
+    path: Assets/Scenes/track 1 FSM.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/track 1 Fuzzy Logic.unity
+    guid: 69d0a6d17bb263543804618eea040d3e
+  - enabled: 1
+    path: Assets/Scenes/track 2 FSM.unity
+    guid: becb1f34889c2e548a1d51df19e18df4
+  - enabled: 1
+    path: Assets/Scenes/track 2 Fuzzy Logic.unity
+    guid: 25bd8f5e7dd83bf4db6c7229e5a9f819
+  - enabled: 1
+    path: Assets/Scenes/track 3 FSM.unity
+    guid: adf45da58cbd6e34d8b0f9f10d2f254d
+  - enabled: 1
+    path: Assets/Scenes/track 3 Fuzzy Logic.unity
+    guid: 74977355537843c4eb57b618d20b916d
+  m_configObjects: {}

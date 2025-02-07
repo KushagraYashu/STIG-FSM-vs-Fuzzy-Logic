@@ -1,0 +1,180 @@
+(1st iteration)
+track 3
+Fuzzy Logic, without obstacles
+Time: 81.99654
+Collisions: 0
+track 3
+Fuzzy Logic, with obstacles
+Time: 106.0391
+Collisions: 0
+
+track 3
+FSM, without obstacles
+Time: 82.00558
+Collisions: 0
+track 3
+FSM, with obstacles
+Time: 119.7475
+Collisions: 0
+
+(2nd iteration)
+track 3
+Fuzzy Logic, without obstacles
+Time: 82.01627
+Collisions: 0
+track 3
+Fuzzy Logic, with obstacles
+Time: 105.9791
+Collisions: 0
+
+track 3
+FSM, without obstacles
+Time: 82.01878
+Collisions: 0
+track 3
+FSM, with obstacles
+Time: 119.6875
+Collisions: 0
+
+(3rd iteration)
+track 3
+Fuzzy Logic, without obstacles
+Time: 81.98454
+Collisions: 0
+track 3
+Fuzzy Logic, with obstacles
+Time: 106.0791
+Collisions: 0
+
+track 3
+FSM, without obstacles
+Time: 82.01558
+Collisions: 0
+track 3
+FSM, with obstacles
+Time: 119.9475
+Collisions: 0
+
+Fuzzy logic is 11.44% quicker than FSM in completing the track while avoiding obstacles.
+
+
+
+(1st iteration)
+track 2
+Fuzzy Logic, without obstacles
+Time: 96.33961
+Collisions: 0
+track 2
+Fuzzy Logic, with obstacles
+Time: 115.6853
+Collisions: 1
+
+track 2
+FSM, without obstacles
+Time: 96.34145
+Collisions: 0
+track 2
+FSM, with obstacles
+Time: 124.0319
+Collisions: 1
+
+(2nd iteration)
+track 2
+Fuzzy Logic, without obstacles
+Time: 96.28861
+Collisions: 0
+track 2
+Fuzzy Logic, with obstacles
+Time: 115.7215
+Collisions: 1
+
+track 2
+FSM, without obstacles
+Time: 96.14155
+Collisions: 0
+track 2
+FSM, with obstacles
+Time: 123.9919
+Collisions: 1
+
+(3rd iteration)
+track 2
+Fuzzy Logic, without obstacles
+Time: 96.29961
+Collisions: 0
+track 2
+Fuzzy Logic, with obstacles
+Time: 115.7053
+Collisions: 1
+
+track 2
+FSM, without obstacles
+Time: 96.35495
+Collisions: 0
+track 2
+FSM, with obstacles
+Time: 124.1229
+Collisions: 1
+
+Fuzzy logic is 6.72% quicker than FSM in completing the track while avoiding obstacles.
+
+
+
+(1st iteration)
+track 1
+Fuzzy Logic, without obstacles
+Time: 107.4808
+Collisions: 0
+track 1
+Fuzzy Logic, with obstacles
+Time: 131.4968
+Collisions: 0
+
+track 1
+FSM, without obstacles
+Time: 107.4975
+Collisions: 0
+track 1
+FSM, with obstacles
+Time: 138.4445
+Collisions: 0
+
+(2nd iteration)
+track 1
+Fuzzy Logic, without obstacles
+Time: 107.6104
+Collisions: 0
+track 1
+Fuzzy Logic, with obstacles
+Time: 131.4514
+Collisions: 0
+
+track 1
+FSM, without obstacles
+Time: 107.4801
+Collisions: 0
+track 1
+FSM, with obstacles
+Time: 138.3545
+Collisions: 0
+
+(3rd iteration)
+track 1
+Fuzzy Logic, without obstacles
+Time: 107.4511
+Collisions: 0
+track 1
+Fuzzy Logic, with obstacles
+Time: 131.4892
+Collisions: 0
+
+track 1
+FSM, without obstacles
+Time: 107.4855
+Collisions: 0
+track 1
+FSM, with obstacles
+Time: 138.4152
+Collisions: 0
+
+Fuzzy logic is 5.018% quicker than FSM in completing the track while avoiding obstacles.
