@@ -1,5 +1,5 @@
 ### Issue:
-Some files (Race Track texture files) couldn't be uploaded because of the git LFS. Hence, the scene might suffer from improper textures and materials.
+Some files (Race Track texture files (.psd), `Assets/Race Track/Track1/Textures/`) couldn't be uploaded because of the git LFS. Hence, the scene might suffer from improper textures and materials.
 
 
 
